@@ -1,0 +1,131 @@
+{
+    "HTMLquiz": {
+      "sorular": [
+        {
+          "id":1,
+          "soru": "HTML, hangi web tarayıcısı tarafından yorumlanır?",
+          "secenekler": ["Google Chrome", "Mozilla Firefox", "Internet Explorer", "Herhangi bir web tarayıcısı"],
+          "dogru_secenek": "Herhangi bir web tarayıcısı"
+        },
+        {
+          "id":2,
+          "soru": "HTML'in tam açılımı nedir?",
+          "secenekler": ["Hyper Text Markup Language", "High Tech Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"],
+          "dogru_secenek": "Hyper Text Markup Language"
+        },
+        {
+          "id":3,
+          "soru": "HTML'de bir başlık etiketi nasıl tanımlanır?",
+          "secenekler": ["<head>", "<title>", "<h1>", "<header>"],
+          "dogru_secenek": "<h1>"
+        },
+        {
+          "id":4,
+          "soru": "HTML'de bir paragraf etiketi nasıldır?",
+          "secenekler": ["<p>", "<paragraph>", "<para>", "<text>"],
+          "dogru_secenek": "<p>"
+        },
+        {
+          "id":5,
+          "soru": "HTML'de bir bağlantı (link) oluşturmak için hangi etiket kullanılır?",
+          "secenekler": ["<link>", "<a>", "<url>", "<href>"],
+          "dogru_secenek": "<a>"
+        },
+        {
+          "id":6,
+          "soru": "Bir resmi HTML sayfasına eklemek için hangi etiket kullanılır?",
+          "secenekler": ["<img>", "<image>", "<picture>", "<photo>"],
+          "dogru_secenek": "<img>"
+        },
+        {
+          "id":7,
+          "soru": "HTML'de numaralandırılmış bir liste oluşturmak için hangi etiket kullanılır?",
+          "secenekler": ["<ul>", "<ol>", "<list>", "<li>"],
+          "dogru_secenek": "<ol>"
+        },
+        {
+          "id":8,
+          "soru": "HTML'de bir form oluşturmak için hangi etiket kullanılır?",
+          "secenekler": ["<form>", "<input>", "<field>", "<button>"],
+          "dogru_secenek": "<form>"
+        },
+        {
+          "id":9,
+          "soru": "HTML'de bir tablo oluşturmak için hangi etiket kullanılır?",
+          "secenekler": ["<table>", "<tab>", "<tr>", "<td>"],
+          "dogru_secenek": "<table>"
+        },
+        {
+          "id":10,
+          "soru": "HTML'de bir sayfanın başlık (title) kısmı için hangi etiket kullanılır?",
+          "secenekler": ["<header>", "<head>", "<title>", "<h1>"],
+          "dogru_secenek": "<title>"
+        }
+      ]
+    },
+
+    "javascriptQuiz": {
+      "sorular": [
+        {
+          "id":1,
+          "soru": "JavaScript hangi tür bir programlama dilidir?",
+          "secenekler": ["Yüksek seviyeli", "Düşük seviyeli", "Orta seviyeli", "Makine seviyeli"],
+          "dogru_secenek": "Yüksek seviyeli"
+        },
+        {
+          "id":2,
+          "soru": "JS ile tarayıcı üzerinde hangi tür işlemler yapılabilir?",
+          "secenekler": ["Sadece metin işlemleri", "Grafik tasarım", "İstemci-tarafı işlemler", "Sunucu-tarafı işlemler"],
+          "dogru_secenek": "İstemci-tarafı işlemler"
+        },
+        {
+          "id":3,
+          "soru": "JS'de bir değişkenin değerini saklamak için hangi anahtar kelime kullanılır?",
+          "secenekler": ["define", "value", "var", "let"],
+          "dogru_secenek": "var"
+        },
+        {
+          "id":4,
+          "soru": "\"alert\" fonksiyonu ne işe yarar?",
+          "secenekler": ["Kullanıcıya bir uyarı gösterir.", "Bir sayıyı yuvarlar.", "Bir dizeyi büyük harfe dönüştürür.", "Tarayıcıyı kapatır."],
+          "dogru_secenek": "Kullanıcıya bir uyarı gösterir."
+        },
+        {
+          "id":5,
+          "soru": "JS'de bir döngüyü sonlandırmak için hangi anahtar kelime kullanılır?",
+          "secenekler": ["break", "stop", "exit", "terminate"],
+          "dogru_secenek": "break"
+        },
+        {
+          "id":6,
+          "soru": "Bir fonksiyonu çağırmak için hangi işlem kullanılır?",
+          "secenekler": ["call()", "start()", "execute()", "run()"],
+          "dogru_secenek": "call()"
+        },
+        {
+          "id":7,
+          "soru": "\"===\" operatörü neyi kontrol eder?",
+          "secenekler": ["Değer ve tür eşitliğini", "Sadece değer eşitliğini", "Sadece tür eşitliğini", "Referans eşitliğini"],
+          "dogru_secenek": "Değer ve tür eşitliğini"
+        },
+        {
+          "id":8,
+          "soru": "Bir dizi içindeki elemanların sayısını bulmak için kullanılan fonksiyon hangisidir?",
+          "secenekler": ["count()", "length()", "size()", "items()"],
+          "dogru_secenek": "length()"
+        },
+        {
+          "id":9,
+          "soru": "JS'de bir dizi oluşturmanın doğru yolu hangisidir?",
+          "secenekler": ["var myArray = []", "array myArray = []", "myArray = {}", "myArray = ()"],
+          "dogru_secenek": "var myArray = []"
+        },
+        {
+          "id":10,
+          "soru": "Bir HTML elementinin id'sine JS'de nasıl erişilir?",
+          "secenekler": ["getElementById()", "getElementByClass()", "getElementByName()", "getElementByTag()"],
+          "dogru_secenek": "getElementById()"
+        }
+      ]
+    }
+  }
